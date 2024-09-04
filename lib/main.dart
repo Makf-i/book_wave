@@ -12,7 +12,7 @@ const uid = Uuid();
 
 final theme = ThemeData(
   useMaterial3: true,
-  brightness: Brightness.light,
+  brightness: Brightness.dark,
   textTheme: GoogleFonts.kanitTextTheme(),
   scaffoldBackgroundColor: Colors.white,
   appBarTheme: const AppBarTheme(color: Colors.white),
